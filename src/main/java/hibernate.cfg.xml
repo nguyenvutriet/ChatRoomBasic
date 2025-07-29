@@ -5,9 +5,9 @@
 <hibernate-configuration>
     <session-factory>
         <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
-        <property name="hibernate.connection.password">02052005</property>
+        <property name="hibernate.connection.password">password</property>
         <property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/ChatRoom</property>
-        <property name="hibernate.connection.username">nguyenvutriet</property>
+        <property name="hibernate.connection.username">user</property>
         <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
         
         <property name="hibernate.hbm2ddl.auto">update</property>
