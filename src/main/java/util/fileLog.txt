@@ -1,0 +1,115 @@
+2025-07-21 19:37:57 --> Unable to perform unmarshalling at line number 0 and column 0 in RESOURCE hibernate.cfg.xml. Message: null
+
+2025-07-21 19:50:07 --> Unable to perform unmarshalling at line number 0 and column 0 in RESOURCE hibernate.cfg.xml. Message: null
+2025-07-21 20:02:39 --> Unable to perform unmarshalling at line number 0 and column 0 in RESOURCE hibernate.cfg.xml. Message: null
+2025-07-23 21:37:21 --> Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+2025-07-23 21:40:48 --> Connection refused: connect
+2025-07-23 21:42:57 --> Connection refused: connect
+2025-07-23 21:47:17 --> Connection refused: connect
+2025-07-23 21:47:17 --> Connection refused: connect
+2025-07-23 21:49:36 --> Connection refused: connect
+2025-07-23 21:49:36 --> Connection refused: connect
+2025-07-23 21:50:21 --> Connection refused: connect
+2025-07-23 21:50:21 --> Connection refused: connect
+2025-07-24 21:49:22 --> Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+2025-07-24 21:49:22 --> Cannot read field "name" because "this.chat" is null
+2025-07-24 21:51:01 --> Connection refused: connect
+2025-07-24 21:51:01 --> Connection refused: connect
+2025-07-24 21:54:15 --> Connection refused: connect
+2025-07-24 21:54:15 --> Connection refused: connect
+2025-07-24 21:56:24 --> Connection refused: connect
+2025-07-24 21:56:24 --> Connection refused: connect
+2025-07-24 21:59:43 --> Connection refused: connect
+2025-07-24 21:59:43 --> Connection refused: connect
+2025-07-24 22:02:26 --> Connection refused: connect
+2025-07-24 22:03:20 --> Connection reset
+2025-07-25 18:27:11 --> Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+2025-07-25 18:28:06 --> Connection refused: connect
+2025-07-25 18:32:59 --> Connection refused: connect
+2025-07-25 18:33:32 --> Connection refused: connect
+2025-07-25 18:34:32 --> Connection refused: connect
+2025-07-25 18:35:13 --> Connection reset
+2025-07-25 18:46:01 --> Connection refused: connect
+2025-07-25 18:46:59 --> Connection refused: connect
+2025-07-25 18:48:29 --> Connection refused: connect
+2025-07-25 18:49:47 --> Connection reset
+2025-07-25 19:01:48 --> Connection refused: connect
+2025-07-25 19:02:33 --> Connection reset
+2025-07-25 19:04:13 --> Connection refused: connect
+2025-07-25 19:05:16 --> Connection reset
+2025-07-25 19:13:32 --> Connection refused: connect
+2025-07-25 19:15:17 --> Connection refused: connect
+2025-07-25 19:16:39 --> Connection refused: connect
+2025-07-25 19:17:09 --> Connection refused: connect
+2025-07-25 19:18:00 --> Connection reset
+2025-07-25 19:19:53 --> Connection refused: connect
+2025-07-25 19:23:06 --> Connection refused: connect
+2025-07-25 19:24:07 --> Connection refused: connect
+2025-07-25 19:26:02 --> Connection refused: connect
+2025-07-25 19:27:51 --> Connection refused: connect
+2025-07-25 19:30:58 --> Connection refused: connect
+2025-07-25 19:32:48 --> Connection refused: connect
+2025-07-25 19:34:44 --> Connection refused: connect
+2025-07-25 19:36:04 --> Connection reset
+2025-07-25 20:00:42 --> Connection refused: connect
+2025-07-25 20:01:32 --> Connection reset
+2025-07-25 20:26:02 --> Connection refused: connect
+2025-07-25 20:26:42 --> Connection reset
+2025-07-25 20:28:28 --> Connection refused: connect
+2025-07-25 20:28:53 --> Connection reset
+2025-07-25 20:35:05 --> Connection refused: connect
+2025-07-25 20:36:18 --> Connection reset
+2025-07-25 20:36:19 --> Connection reset
+2025-07-25 20:38:39 --> Connection refused: connect
+2025-07-25 20:39:01 --> An established connection was aborted by the software in your host machine
+2025-07-25 20:39:10 --> Connection reset
+2025-07-25 20:40:10 --> Connection refused: connect
+2025-07-25 20:40:34 --> An established connection was aborted by the software in your host machine
+2025-07-25 20:40:43 --> Connection reset
+2025-07-25 20:46:38 --> Connection refused: connect
+2025-07-25 20:46:55 --> Socket is closed
+2025-07-25 20:46:55 --> Cannot invoke "java.io.InputStream.read(byte[])" because "this.input" is null
+2025-07-25 20:46:57 --> Socket is closed
+2025-07-25 20:46:57 --> Cannot invoke "java.io.InputStream.read(byte[])" because "this.input" is null
+2025-07-25 20:48:18 --> Connection refused: connect
+2025-07-25 20:49:07 --> Connection refused: connect
+2025-07-25 20:49:09 --> Socket closed
+2025-07-25 20:49:18 --> An established connection was aborted by the software in your host machine
+2025-07-25 20:50:23 --> Socket closed
+2025-07-25 20:50:25 --> Socket closed
+2025-07-25 20:51:12 --> Socket closed
+2025-07-25 20:51:14 --> Socket closed
+2025-07-25 20:56:57 --> Connection refused: connect
+2025-07-25 20:57:15 --> Socket closed
+2025-07-25 20:57:38 --> Socket closed
+2025-07-25 20:57:40 --> Socket closed
+2025-07-27 20:25:01 --> Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+2025-07-27 20:25:17 --> Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+2025-07-27 20:26:11 --> Connection refused: connect
+2025-07-27 20:35:49 --> Connection refused: connect
+2025-07-27 20:36:11 --> An established connection was aborted by the software in your host machine
+2025-07-27 20:36:23 --> An established connection was aborted by the software in your host machine
+2025-07-27 20:36:36 --> Connection reset
+2025-07-27 21:19:17 --> Connection refused: connect
+2025-07-27 21:19:44 --> An established connection was aborted by the software in your host machine
+2025-07-27 21:20:00 --> An established connection was aborted by the software in your host machine
+2025-07-27 21:20:18 --> Socket closed
+2025-07-27 21:20:34 --> Connection reset
+2025-07-28 15:44:00 --> Connection timed out: connect
+2025-07-28 15:44:23 --> Connection timed out: connect
+2025-07-28 15:44:43 --> Connection timed out: connect
+2025-07-28 15:44:43 --> Address already in use: bind
+2025-07-28 20:13:09 --> Connection timed out: connect
+2025-07-28 20:13:32 --> Connection timed out: connect
+2025-07-28 20:14:20 --> Connection timed out: connect
+2025-07-28 20:14:20 --> Address already in use: bind
+2025-07-28 20:14:43 --> Connection timed out: connect
+2025-07-28 20:17:19 --> Connection timed out: connect
+2025-07-28 20:17:19 --> Address already in use: bind
+2025-07-28 20:17:42 --> Connection timed out: connect
+2025-07-29 18:50:00 --> Connection refused: connect
+2025-07-29 18:50:28 --> An established connection was aborted by the software in your host machine
+2025-07-29 18:50:37 --> An established connection was aborted by the software in your host machine
+2025-07-29 18:51:41 --> Connection reset
+2025-07-29 18:58:37 --> Connection refused: connect
+2025-07-29 18:59:52 --> Connection reset
